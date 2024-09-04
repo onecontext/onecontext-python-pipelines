@@ -1,6 +1,6 @@
 # OneContext
 
-Note this repo contains the pipelines version of the onecontext python client.For new non enterprise users please use the new python sdk: https://github.com/onecontext/onecontext-python
+Note this repo contains the pipelines version of the onecontext python client. For new non enterprise users please use the new python sdk: https://github.com/onecontext/onecontext-python
 
 
 -----
