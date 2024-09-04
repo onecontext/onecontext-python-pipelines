@@ -1,8 +1,8 @@
 # OneContext
 
-[![PyPI - Version](https://img.shields.io/pypi/v/onecontext.svg)](https://pypi.org/project/onecontext)
-[![PyPI - Python Version](https://img.shields.io/pypi/pyversions/onecontext.svg)](https://pypi.org/project/onecontext)
+Note this repo contains the pipelines version of the onecontext python client. 
 
+For new non enterprise users please use the new python sdk: https://github.com/onecontext/onecontext-python
 -----
 **Table of Contents**
 - [LLM Context as a Service](#llm-context-as-a-service)
@@ -40,17 +40,6 @@ results relevant to the query.
 - Runtime context for instruction following agents
 - Prevent and detect hallucinations based on custom data
 
-
-## Quick Start
-
-Install the package with `pip`:
-
-```shell
-pip install onecontext
-```
-
-> **Note:**
-> If you prefer to jump right in the full example code is in [`quickstart.py`](examples/quickstart.py)
 
 
 ```python
